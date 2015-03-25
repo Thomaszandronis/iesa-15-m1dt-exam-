@@ -2,10 +2,28 @@
 <html lang="fr">
 <head>
   <meta charset="utf-8">
-  <title>Calculatrice</title>
-  <script src="script.js"></script>
+  <title>calculatrice</title>
+  <link rel="stylesheet" href="qunit/qunit-1.17.1.css">
+  <script src="qunit/qunit-1.17.1.js"></script>
+  <script src="calculator.js"></script>
+ 
+  <script>
+  QUnit.test("calculatrice", function( assert ) {
+	var calcul = new Calculator();
+    assert.equal(calcul.result, 0, "le resultat est initialiser à 0");
+	
+	assert.equal(calcul.add(3), undefined, "la methode add retourne rien.");
+	
+	assert.equal(calcul.result, 3, "result change de valeur selon l'appel des methodes.");
+
+	assert.ok (isNaN(calcul.add(2, 3)),"la methode add ne prend pas de deuxième paramètre");
+
+	assert.ok (isNaN(calcul.result),"Le resultat change selon la methode");	
+  });
+  
+  </script>
 </head>
 <body>
-  
+  <div id="qunit-fixture"></div><div id="qunit"></div>
 </body>
 </html>
