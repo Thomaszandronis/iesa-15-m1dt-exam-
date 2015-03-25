@@ -1,0 +1,64 @@
+body {
+	margin: auto;
+	width: 100%;
+	background-image: url('img/space-background.jpg');
+	background-size: contain;
+	text-align: center;
+	color: #fff;
+	font-family: cursive;
+}
+header {
+	width: 100%;
+	height: auto;
+	color: #fff;
+	text-align: center;
+	padding-bottom: 26px;
+	padding-top: 8px;
+	background-color: #fff;
+}
+nav {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+h1 {
+	font-size: 1.8em;
+	text-transform: uppercase;
+	color: #000;
+	font-family: cursive;
+}
+.logo {
+	max-width:175px;
+	height: auto;
+}
+td {
+	width: 200px;
+	height: 200px;
+}
+ul {
+	list-style: none;
+	margin-left: -40px;
+}
+.titre {
+	font-size: 2em;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+.description {
+	border-bottom: 1px #fff solid;
+	width: 80%;
+	margin: auto;
+	padding-bottom: 20px;
+}
+.navigation li{
+	display: inline-block;
+	margin-left: 15px;
+	text-decoration: underline;
+}
+.infos{
+	margin: auto;
+	padding: 10px;
+	color: #000;
+	background-color: #fff;
+	width: 40%;
+	border-radius: 10px;
+}

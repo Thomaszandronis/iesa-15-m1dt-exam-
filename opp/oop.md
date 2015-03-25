@@ -1,5 +1,5 @@
 Un Objet c'est:
-Des 
-Des 
-Des 
-Une 
+Des méthodes
+Des propriétés
+Des données
+Une instance de classe

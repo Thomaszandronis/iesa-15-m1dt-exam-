@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news>
+  <items>
+    <title>Terre</title>
+    <taille>510 067 420 km2</taille>
+    <distance>149 600 000 km</distance>
+    <description>La Terre est une planète du Système solaire, la troisième au regard de la distance au Soleil.</description>
+    <image>img/terre.jpg</image>
+  </items>
+  <items>
+    <title>Mercure</title>
+    <taille>75×106 km2</taille>
+    <distance>57 910 000 km</distance>
+    <description>Mercure est la planète la plus proche du Soleil et la moins massive du Système solaire1.</description>
+    <image>img/mercure.jpg</image>
+  </items>
+  <items>
+    <title>Venus</title>
+    <taille>460 234 317 km²</taille>
+    <distance>108 200 000 km</distance>
+    <description>Vénus est la deuxième des huit planètes du Système solaire en partant du Soleil, et la sixième par masse ou par taille décroissantes.</description>
+    <image>img/Venus.jpg</image>
+  </items>
+  <items>
+    <title>Mars</title>
+    <taille>144 798 500 km2</taille>
+    <distance>227 900 000 km</distance>
+    <description>Mars est la quatrième planète par ordre de distance croissante au Soleil et la deuxième par masse et par taille croissantes sur les huit planètes que compte le Système solaire.</description>
+    <image>img/mars.jpg</image>
+  </items>
+  <items>
+    <title>Jupiter</title>
+    <taille>61 418 738 571 km²</taille>
+    <distance>778 500 000 km</distance>
+    <description>Jupiter est une planète géante gazeuse. Il s'agit de la plus grosse planète du Système solaire, plus volumineuse et massive que toutes les autres planètes</description>
+    <image>img/jupiter.jpg</image>
+  </items>
+  <items>
+    <title>Saturne</title>
+    <taille>42 700 000 000 km²</taille>
+    <distance>1 433 000 000 km</distance>
+    <description>Saturne est la sixième planète du Système solaire par ordre de distance au Soleil et la deuxième après Jupiter tant par sa taille que par sa masse</description>
+    <image>img/Saturne.jpg</image>
+  </items>
+  <items>
+    <title>Uranus</title>
+    <taille>8 083 079 690 km²</taille>
+    <distance>2 877 000 000 km</distance>
+    <description>Uranus est une planète géante de glaces de type Neptune froid. Il s'agit de la 7e planète du Système solaire par sa distance au Soleil, de la 3e par la taille</description>
+    <image>img/uranus.jpg</image>
+  </items>
+  <items>
+    <title>Neptune</title>
+    <taille>7 618 272 763 km²</taille>
+    <distance>4 503 000 000 km</distance>
+    <description>Neptune est la huitième et dernière planète du Système solaire par distance croissante au Soleil. Neptune orbite autour du Soleil</description>
+    <image>img/neptune.jpg</image>
+  </items>
+  <items>
+    <title>Lune</title>
+    <taille>37 871 220,85 km2</taille>
+    <distance>146 692 378 km</distance>
+    <description>La Lunen est l'unique satellite naturel de la Terrenote 2,1. Suivant la désignation systématique des satellites.</description>
+    <image>img/lune.jpg</image>
+  </items>
+</news>
