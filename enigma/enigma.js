@@ -8,18 +8,18 @@ function Enigma(){
 	this.decrypt = function (entree) {
 		sortie = "";
 		var a;
-		for (var i=0; i < text.length; i++){
-			a = textAdecrypter.indexOf(text[i]);
-			sortie += texteNonCrypter.charAt(a);
+		for (var i=0; i < entree.length; i++){
+			a = textAdecrypter.indexOf(entree[i]);
+			sortie += texteNonCrypter[a];
 		}
 		return sortie;
 	}
 	this.encrypt = function (entree) {
 		sortie = "";
 		var a;
-		for (var i=0; i < text.length; i++){
-			a = texteNonCrypter.indexOf(text[i]);
-			sortie += textAdecrypter.charAt(a);
+		for (var i=0; i < entree.length; i++){
+			a = texteNonCrypter.indexOf(entree[i]);
+			sortie += textAdecrypter[a];
 		}
 		
 		return sortie;
